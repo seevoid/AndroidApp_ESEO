@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TP_Devoir</string>
+    <string name="summary_app">This mobile app allows you to browse the SWAPI Api ! Check this out :</string>
+    <string name="go_view_data">GO !</string>
+    <string name="characters_title">List of Star Wars characters :</string>
+    <string name="vehicles_title">List of Star Wars vehicles :</string>
+    <string name="planets_title">List of Star Wars planets :</string>
+    <string name="starships_title">List of Star Wars starships :</string>
+    <string name="status_error">Unknow error ! </string>
+
+    <string name="birth_year">Birth year : </string>
+    <string name="eye_color">Eye color : </string>
+    <string name="gender">Gender : </string>
+    <string name="hair_color">Hair color : </string>
+    <string name="height">Height :</string>
+    <string name="mass">Mass :</string>
+    <string name="name">Name :</string>
+    <string name="skin_color">Skin color :</string>
+
+    <string name="model">Model :</string>
+    <string name="consumables">Consumables :</string>
+    <string name="manufacturer">Manufacturer :</string>
+    <string name="length">Length :</string>
+    <string name="max_atmosphering_speed">Max atmosphering speed :</string>
+    <string name="crew">Crew :</string>
+    <string name="cargo_capacity">Cargo capacity :</string>
+
+    <string name="vehicle_class">Vehicle class :</string>
+
+    <string name="climate">Climate :</string>
+    <string name="created">Created :</string>
+    <string name="diameter">Diameter :</string>
+    <string name="edited">Edited :</string>
+    <string name="gravity">Gravity :</string>
+    <string name="orbital_period">Orbital period :</string>
+    <string name="population">Population :</string>
+    <string name="rotation_period">Rotation period :</string>
+    <string name="surface_water">Surface water :</string>
+    <string name="terrain">Terrain :</string>
+
+    <string name="MGLT">MGLT :</string>
+    <string name="cost_in_credits">Cost in credits :</string>
+    <string name="hyperdrive_rating">Length :</string>
+    <string name="passengers">Passengers :</string>
+    <string name="pilots">Pilots :</string>
+    <string name="starship_class">Starship class :</string>
+
+</resources>
