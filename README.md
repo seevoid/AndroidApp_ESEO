@@ -4,3 +4,4 @@ Android App made during ESEO courses. It send GET queries to the SWAPI (https://
 **Notes** :
 - All the adapters are custom to ensure a future version (with image for example)
 - Only the first page each category is displayed
+...
